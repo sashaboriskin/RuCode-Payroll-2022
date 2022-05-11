@@ -18,7 +18,7 @@ Our team: </br>
 * Our task was to predict the salary for given vacanvies from [trudvsem.ru](https://trudvsem.ru) </br>
 * The data was given as a .csv file with approx. 1kk samples in train.csv (71 columns) and 40k samples in test.csv (68 columns) (public - 40%, private - 60%) </br>
 * The training data included categorical, binary, continous and text features </br>
-* The target variable was ```mean_salary``` and additional targets were ```base_salary_max``` and ```base_salary_mean```</br>
+* The target variable was ```mean_salary``` and additional targets were ```base_salary_max``` and ```base_salary_min```</br>
 * Many of the values were missed, e.g. in one of the features 95% were nan values </br>
 
 ### Solution desctiption: </br>
